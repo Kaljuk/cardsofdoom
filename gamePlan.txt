@@ -9,6 +9,8 @@ MainGround: '#4B6289'
 MainUnderGround: '#60316E'
 
 Relatively % covered on the screen (Vertically)
+[41,67,86,100]
+----
 [41, 26, 94, 79]
 
 
