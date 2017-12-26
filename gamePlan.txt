@@ -1,0 +1,15 @@
+
+---------------------- IN BATTLE ----------------------
+-- -- World -- --
+
+_Colors_
+BackgroundSky: '#A3F7BF'
+BackgroundGround: '#29A19C'
+MainGround: '#4B6289'
+MainUnderGround: '#60316E'
+
+Relatively % covered on the screen (Vertically)
+[41, 26, 94, 79]
+
+
+//
