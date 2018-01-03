@@ -24,8 +24,4 @@ A 2d sideview game (age of war-ish with cards and stuff) made with nodeJS and p5
 ### Special
 #### Discord
 - Discord game playing recognition
-<<<<<<< HEAD
 - Discord Spectate|Join|AskToJoin|Invite integration
-=======
-- Discord Join|AskToJoin|Invite integration
->>>>>>> bbf2fbda7fb7b82ee58157ce9a476e5cf2915487
