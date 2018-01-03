@@ -19,3 +19,9 @@ A 2d sideview game (age of war-ish with cards and stuff) made with nodeJS and p5
 - Ranking system and ranks+RankingUp
 - Matchmaking system
 - Room system (for pvp and MultiplePlayers VS AI)
+
+
+### Special
+#### Discord
+- Discord game playing recognition
+- Discord Spectate|Join|AskToJoin|Invite integration
