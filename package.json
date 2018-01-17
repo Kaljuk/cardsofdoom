@@ -1,0 +1,24 @@
+{
+  "name": "cardsofdoom",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaljuk/cardsofdoom.git"
+  },
+  "author": "Erik Kaljumäe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaljuk/cardsofdoom/issues"
+  },
+  "homepage": "https://github.com/Kaljuk/cardsofdoom#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
