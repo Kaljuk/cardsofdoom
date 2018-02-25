@@ -13,5 +13,4 @@ Relatively % covered on the screen (Vertically)
 ----
 [41, 26, 94, 79]
 
-
 //
