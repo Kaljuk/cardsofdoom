@@ -1,6 +1,18 @@
 
 # Sections of the game
 
-## Sections -
+## Sections
+
+### On player pc
+
+### LoginClient
+### Update Client
 ### Client
-### -+_
+### Gameplay Client
+### WebSite
+
+### On the server
+
+### Manager server aka Gameplay room manager server
+### Gameplay room server
+### Website server
